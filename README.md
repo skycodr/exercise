@@ -1,4 +1,39 @@
-Harver JS Exercise
+# Solution by SkyCodr `(aka: Dulan Sudasinghe)`
+
+## Development environment
+
+```
+NodeJS: v12.1.0
+npm: v6.9.0
+```
+
+## To run the app
+
+Can just run with npm start or using any combinations of the flags.
+
+```Note:
+npm start OR
+npm start task=async fizzBizz=true withErrors=true slow=true output=file
+```
+
+## Flags
+
+* task=(sync|async|wrangled) default wrangled. Choose the task to run.
+* fizzBuzz=(true|false) default false. Choose fizz buzz.
+* slow=(true|false) default false. Simulate speed. Only for async functions.
+* withErrors=(true|false) default false. Simulates errors.
+* output=(console|file) default console. Choose type of output.
+
+```Note:
+1. Any combination is possible
+2. Difference between async and wrangled is that wrangle is used to demonstrate parallel async calls
+```
+
+## Covered in the exercise
+
+All Tasks including Bonus section.
+
+## Harver JS Exercise
 ============================
 
 ## Get started
