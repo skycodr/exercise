@@ -78,7 +78,7 @@ const {
  * ------------------------------------------------------------------------
  * TASK Runner
  * 
- * Ex: npm start task=async buzz=true error=true file=true slow=false
+ * Ex: npm start task=async fizzBuzz=true withErrors=true output=file slow=false
  *
  * Flags:
  *  -- task=(sync|async|wrangled) default wrangled. Choose the task to run
