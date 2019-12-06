@@ -9,7 +9,7 @@ npm: v6.9.0
 
 ## To run the app
 
-Can just run with npm start or using any combinations of the flags.
+Can just run with npm start or using any combinations of the flags. (Of course after installing any dependencies ```npm i``` (;p)
 
 ```Note:
 npm start OR
